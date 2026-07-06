@@ -9,21 +9,21 @@ This tender proposal includes three primary layouts designed to modernize the ci
 ### 1. Front Page (Homepage)
 Focuses on immediate access to e-services, highlighting transparent governance, and providing a clean newsfeed for state announcements.
 
-![Front Page](Front%20page.jpg)
+![Front Page](Final_Designs/Front%20page.jpg)
 
 ---
 
 ### 2. Inner Page: Country Information
 A structured layout for heavy content consumption, featuring a persistent left-sidebar navigation to easily browse state history, administration, and customary laws (Adat Perpatih).
 
-![Country Information](Country%20Information.jpg)
+![Country Information](Final_Designs/Country%20Information.jpg)
 
 ---
 
 ### 3. Contact Us Page
 A streamlined communication hub featuring integrated mapping and a clean, accessible messaging form for public inquiries.
 
-![Contact Page](Contact%20page.jpg)
+![Contact Page](Final_Designs/Contact%20page.jpg)
 
 ---
 
